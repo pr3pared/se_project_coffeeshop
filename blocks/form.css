@@ -37,6 +37,11 @@
     box-sizing: border-box;
     margin-top: 8px;
     padding: 0;
+    border-radius: 4px;
+  }
+
+  .form__input::placeholder {
+    color: #838383;
   }
   
   .form__button {
@@ -45,12 +50,11 @@
     color: #FFF;
     border-radius: 4px;
     transition: opacity 0.5s ease-in;
+    cursor: pointer;
+    border-style: none;
+    font-weight: 500;
   }
   
   .form__button:hover {
     opacity: 70%;
-  }
-
-  .form__button {
-    font-weight: 500;
   }

@@ -18,7 +18,7 @@
     font-family: Noto Serif, 'Times New Roman', serif;
     color: #FFF;
     max-width: 438px;
-    margin-top: 24px;
+    margin: 24px 0 0;
     font-size: 20px;
     line-height: 30px;
   }
@@ -38,7 +38,7 @@
   
   .recipes__video-caption {
     display: flex;
-    margin-top: 24px;
+    margin: 24px 0 0;
     color: #FFF;
     justify-content: space-between;
     font-weight: 500;

@@ -22,10 +22,9 @@
     z-index: 1;
   }
   
-.header__title .header__title_span-accent {
+.header__title_span-accent {
   font-family: Noto Serif, 'Times New Roman', serif;
   font-style: italic;
-  font-size: 60px;
   color: #2F80ED;
   font-weight: normal;
 }
@@ -48,27 +47,15 @@
 }
 
 .header__footer {
-  margin-top: auto;
-  width: 100%;
   display: flex;
-  align-items: center;
+  margin: auto 0 0;
+  width: 100%;
+  align-items: flex-end;
   justify-content: space-between;
-  box-sizing: border-box;
-}
-
-.header__paragraph {
   color: #838383;
-  font-weight: 500;
-  list-style: none;
-  padding: 0;
-}
-
-.header__paragraph-item {
   list-style-type: none;
 }
 
-.header__address {
-  margin-top: auto;
-  color: #838383;
-  font-weight: 500;
+.header__paragraph {
+  margin: 0;
 }
