@@ -14,3 +14,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+- I would plan to make the Video section, more interactive using JS. Things like a rotating carousel of videos    that people could choose.
+- Add another form to give suggestions to the coffee shop for future products.
+- Seasonal Drink Section.
