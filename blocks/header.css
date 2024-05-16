@@ -23,7 +23,7 @@
     z-index: 1;
   }
   
-.header__title_span-accent {
+.header__span-accent {
   font-family: Noto Serif, 'Times New Roman', serif;
   font-style: italic;
   color: #2F80ED;
@@ -48,6 +48,7 @@
 }
 
 .header__footer {
+  font-weight: 500;
   display: flex;
   margin: auto 0 0;
   padding: 0;
