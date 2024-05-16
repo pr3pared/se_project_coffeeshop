@@ -28,6 +28,7 @@
   font-style: italic;
   color: #2F80ED;
   font-weight: normal;
+  display: block;
 }
 
 .header__description {
