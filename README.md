@@ -20,4 +20,4 @@ Add your ideas here :)
 - Seasonal Drink Section.
 
 ## Visit the Site
-https://pr3pared.github.io/se_project_coffeeshop/
+[CoffeShop Project Page -Christian Koshay](https://pr3pared.github.io/se_project_coffeeshop/)
