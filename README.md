@@ -18,3 +18,6 @@ Add your ideas here :)
 - I would plan to make the Video section, more interactive using JS. Things like a rotating carousel of videos    that people could choose.
 - Add another form to give suggestions to the coffee shop for future products.
 - Seasonal Drink Section.
+
+## Visit the Site
+https://pr3pared.github.io/se_project_coffeeshop/
